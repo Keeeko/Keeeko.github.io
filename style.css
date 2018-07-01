@@ -1,0 +1,58 @@
+html{
+	background-color: 
+}
+
+.container{
+	margin-top: 30px;
+}
+
+.navbar{
+	margin-bottom: 20px;
+}
+
+#cardArea{
+	padding-top: 15px;
+}
+
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#paginationControlTop{
+	margin-top: 15px;
+}
+
+.jumbotron{
+	background-image: url("https://images.unsplash.com/photo-1518908336710-4e1cf821d3d1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c696297624f5a4f66c3f93364b7bd70e&auto=format&fit=crop&w=2973&q=80");
+	background-size: cover;
+	opacity: 0.9;
+	border-radius: 0px;
+}
+
+@media (min-width: 768px) {
+  .modal-xl {
+    width: 90%;
+   max-width:1200px;
+  }
+}
+
+p{
+	font-weight: normal;
+}
+
+footer{
+	font-style: bold;
+	font-weight: normal;
+}
+
+.gameInfo > p{
+	text-align: center;
+}
+
+.ratingInfo > p{
+	text-align: center;
+}
+
+.topRow{
+	margin-bottom: 10px;
+}
